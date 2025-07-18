@@ -43,12 +43,6 @@
 ---
 
 <div align="center">
-  
-![Contador de Visitantes](https://profile-counter.glitch.me/viniciusTurn/count.svg)
-
-</div>
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-martins-52565520a/)
 
