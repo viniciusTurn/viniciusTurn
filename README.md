@@ -31,7 +31,7 @@ Plataforma SaaS para criação e gerenciamento de quizzes.
 
 ## 🌐 Experimente a plataforma
 
-<a href="https://quizcrazybuilder.com.br">
+<a href="https://quizcrazybuilder.com.br" target="_blank">
     <img src="https://img.shields.io/badge/🚀_Abrir_Demonstração-0066CC?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
 
