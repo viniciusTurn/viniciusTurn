@@ -21,9 +21,23 @@
 Plataforma SaaS para criação e gerenciamento de quizzes.
 
 <p align="center">
-  <img src="./assets/quizcrazybuilder-dashboard.png" alt="QuizCrazyBuilder Dashboard" width="900">
+  <a href="https://quizcrazybuilder.com.br" target="_blank">
+    <img
+      src="./assets/quizcrazybuilder-dashboard.png"
+      alt="QuizCrazyBuilder"
+      width="900">
+  </a>
 </p>
 
+## 🌐 Experimente a plataforma
+
+<a href="https://quizcrazybuilder.com.br">
+    <img src="https://img.shields.io/badge/🚀_Abrir_Demonstração-0066CC?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+
+<sub>🔒 Código-fonte privado • Demonstração pública disponível</sub>
+
+</p>
 
 **Tecnologias**
 <p>
@@ -41,9 +55,7 @@ Plataforma SaaS para criação e gerenciamento de quizzes.
   <img src="https://img.shields.io/badge/Mercado_Pago-00B1EA?style=flat-square&logo=mercadopago&logoColor=white"/>
 </p>
 
-🔗 Demonstração: https://quizcrazybuilder.com.br
 
-> Código-fonte privado.
 <br>
 <br>
 <br>
