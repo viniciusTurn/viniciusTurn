@@ -15,6 +15,38 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusTurn&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusTurn&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+### 🚧 Projetos em destaque
+
+#### 🧠 QuizCrazyBuilder (Privado)
+Plataforma SaaS para criação e gerenciamento de quizzes.
+
+<p align="center">
+  <img src="./assets/quizcrazybuilder-dashboard.png" alt="QuizCrazyBuilder Dashboard" width="900">
+</p>
+
+
+**Tecnologias**
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHPUnit-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Brevo-0B996E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Mercado_Pago-00B1EA?style=flat-square&logo=mercadopago&logoColor=white"/>
+</p>
+
+🔗 Demonstração: https://quizcrazybuilder.com.br
+
+> Código-fonte privado.
+<br>
+<br>
+<br>
 
 <!-- Badges -->
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -42,6 +74,7 @@
 	
 ---
 
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-martins-52565520a/)
@@ -54,6 +87,20 @@
 
 - 💉 [Sistema de Gestão de Vacinação](https://github.com/viniciusTurn/projeto-vacinacao)
 - 🧾 [API para integração com sistema de saúde](https://github.com/viniciusTurn/api-integracao)
+
+### 🧠 QuizCrazyBuilder (Privado)
+Plataforma SaaS para criação e gerenciamento de quizzes.
+
+**Tecnologias**
+- Laravel
+- PHP
+- Bootstrap
+- SQLite / MySQL
+- Brevo
+
+🔗 Demonstração: https://quizcrazybuilder.com.br
+
+> Código-fonte privado.
 
 -->
 
